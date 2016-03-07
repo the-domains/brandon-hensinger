@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T13:41:24.009Z'
-dateModified: '2016-03-07T13:40:28.256Z'
+datePublished: '2016-03-07T13:41:54.543Z'
+dateModified: '2016-03-07T13:41:27.035Z'
 title: Looking to The Next Adventure
 author: []
+sourcePath: _posts/2016-03-07-looking-to-the-next-adventure.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-looking-to-the-next-adventure.md
-published: true
 url: looking-to-the-next-adventure/index.html
 _type: Article
 
