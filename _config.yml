@@ -1,6 +1,6 @@
 name: Brandon Hensinger
 favicon: null
-layout_spectrum: 0.5775600902270526
+layout_spectrum: 1
 typography_spectrum: 0.6729239642154425
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#fefefe'
+    - '#a8682c'
+    - '#6c4424'
+    - '#af9276'
+    - '#d9b998'
   brandStrength: 0.2929299271199852
   lightness: 0.7691243225708604
   saturation: 0.19795723701827228
