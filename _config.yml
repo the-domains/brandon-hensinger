@@ -1,0 +1,28 @@
+name: Brandon Hensinger
+favicon: null
+layout_spectrum: 0.5775600902270526
+typography_spectrum: 0.6729239642154425
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.2929299271199852
+  lightness: 0.7691243225708604
+  saturation: 0.19795723701827228
+  rhythmicContrast: 0.396286781411618
+purpose: []
