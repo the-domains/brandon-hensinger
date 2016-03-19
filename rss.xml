@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Brandon Hensinger]]></title>
         <description><![CDATA[Brandon Hensinger]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/brandon-hensinger/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 16:07:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Mar 2016 16:11:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/brandon-hensinger/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Finding The Joy in The Adventure of Living Alive]]></title>
+            <description><![CDATA[<article><h1>Finding The Joy in The Adventure of Living Alive</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/716857e4-605a-49de-9a6b-c999fb33a2da.jpg"></article>]]></description>
+            <link>https://thegrid.ai/brandon-hensinger/finding-the-joy-in-the-adventure-of-living-alive/index.html</link>
+            <guid isPermaLink="false">47001f6d-affd-47e8-92f6-d4a2d87b816e</guid>
+            <pubDate>Sat, 19 Mar 2016 16:10:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Firelight]]></title>
-            <description><![CDATA[<article><h1>Firelight</h1><p>undefined</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/759179e0-bbf7-4663-8be4-a2c5b20771ec.jpg"></article>]]></description>
-            <link>undefinedfirelight/index.html</link>
+            <description><![CDATA[<article><h1>Firelight</h1><p>Listen to the Song on SoundCloud</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/759179e0-bbf7-4663-8be4-a2c5b20771ec.jpg"></article>]]></description>
+            <link>https://thegrid.ai/brandon-hensinger/firelight/index.html</link>
             <guid isPermaLink="false">244cbc3d-61ca-434f-9649-1215b61c2c78</guid>
             <pubDate>Sat, 19 Mar 2016 16:07:52 GMT</pubDate>
         </item>
