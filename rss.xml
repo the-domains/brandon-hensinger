@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Brandon Hensinger]]></title>
+        <description><![CDATA[Brandon Hensinger]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 16 Jun 2016 15:10:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Find the Joy in the Adventure of Living Alive!]]></title>
+            <description><![CDATA[<p>No matter what I've done, and no matter where I've been in my life, there has always been a deep rooted pull to the mountains in my soul. When I'm out in the wilderness, when I'm standing on the top of a rocky peak, when I'm suspended on the side of a cliff pondering my next move, I am always impacted by the beauty and simplicity of the mountains and being outside. I can't help but think, every time, that this is what the world was meant to be like. Peaceful, beautiful, and begging to be experienced. </p>]]></description>
+            <link>undefinedfind-the-joy-in-the-adventure-of-living-alive/index.html</link>
+            <guid isPermaLink="false">352d0147-4065-4b28-ab3f-cf4644e0d61a</guid>
+            <pubDate>Thu, 16 Jun 2016 15:10:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
